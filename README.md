@@ -64,6 +64,8 @@ To use Flavus2, follow these steps:
 
 ## Usage
 
+pre run: Ensure all changes are made within the script Ie personalizations, competitor data scraping logic. 
+
 1. Run the Flavus2 script.
 2. Enter the URLs for your sales data, internal organization data, inventory data, and customer feedback data.
 3. Flavus2 will download and preprocess the data, removing outliers and handling missing values.
