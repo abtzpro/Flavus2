@@ -1,3 +1,4 @@
+![Flavus2 Logo](https://github.com/abtzpro/Flavus2/blob/main/8498FEF4-7E25-4FE0-87DE-3A0F5824ADBC.png)
 # Flavus2
 The AI Data Ally For Businesses
 
