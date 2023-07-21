@@ -175,7 +175,7 @@ def competitor_analysis():
         soup = BeautifulSoup(competitor_data.content, 'html.parser')
         # Implement analysis logic here
         # For example, extract relevant information from the HTML and perform data analysis
-        
+        # This has been left as a placeholder to be edited by the end user due to variations in competitor data. 
         # Example: Extracting product names from competitor website
         product_names = soup.find_all('div', class_='product-name')
         for product in product_names:
